@@ -29,3 +29,10 @@ This repository contains a website implementation intended to present the proper
 
 ## Project status
 Website project. Refer to the source for the exact pages and interactions currently included.
+
+
+---
+
+## Live Demo
+
+[Open the deployed application](https://mahashri.github.io/MayVilla/)
